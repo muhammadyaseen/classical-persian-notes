@@ -5,4 +5,5 @@
 
 .urdu-paragraph-font {
     font-family: 'Noto Nastaliq Urdu', 'Jameel Noori Nastaleeq', 'Arial', sans-serif;
+    line-height: 2.4 !important; 
 }
