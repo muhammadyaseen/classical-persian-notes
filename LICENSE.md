@@ -1,6 +1,6 @@
 # LICENSE
 
-- The original course and its content is created by [Raheel Farooq ](youtube.com/@Urdu) and thus remain his intellectual property.
+- The original course and its content is created by [Raheel Farooq](http://www.youtube.com/@Urdu) and thus remain his intellectual property.
 - The exercise solutions, their source code, and the course notes are created by me and are licensed under the following MIT License.
 
 
